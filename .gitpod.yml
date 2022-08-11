@@ -1,0 +1,5 @@
+image: gitpod/workspace-java-17
+
+# exposed ports
+ports:
+- port: 8000
